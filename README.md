@@ -1,7 +1,7 @@
 # <h1 align = 'center'>  Proyecto_2_Telecomunicaciones </h1>
 Data Analyst.
 <p align = 'center'>
-    <img src='/image/Telecomunicaciones.jpeg' alt='Telecomunicaciones' width='800' height='400'/>
+    <img src='./image/Telecomunicaciones.jpeg' alt='Telecomunicaciones' width='800' height='400'/>
 </p>
 
 
@@ -37,8 +37,9 @@ Realizamos un Análisis Exploratorio de Datos (EDA) sobre la base de datos de te
 
 ## Tecnologías
 ---
-* Python / Pandas / Matplotlib / Seaborn / Wordcloud
-* Power BI 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pandas,matplotlib,seaborn,&titles=true)
+
+<img height="20" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">&nbsp;
 
 
 ## Datos 
@@ -60,9 +61,8 @@ Realizamos un Análisis Exploratorio de Datos (EDA) sobre la base de datos de te
 
 * Importancia: La velocidad de conexión es un indicador crítico de la calidad de vida digital y del potencial de desarrollo tecnológico en cada región.
 <p align="center">
-  <img src="/image/Dashboard.png" alt="Dashboard" width="750" height="350" />
+  <img src="./image/Dashboard.png" alt="Dashboard" width="750" height="350" />
 </p>
-
 
 
 ## Conclusiones y Recomendaciones
@@ -78,3 +78,7 @@ Realizamos un Análisis Exploratorio de Datos (EDA) sobre la base de datos de te
     * Focalizar en Provincias Rezagadas: Priorizar las inversiones y políticas en aquellas provincias que presentan menor acceso a internet, garantizando que el aumento del 2% se logre de manera uniforme en todo el país.
 
     * Monitoreo y Ajustes: Implementar un sistema de monitoreo continuo que permita evaluar el progreso hacia el objetivo del 2% trimestralmente, ajustando las estrategias según los resultados obtenidos en cada provincia.
+
+
+## Autores
+[<img src="https://avatars.githubusercontent.com/u/143465990?s=64&v=4" width=100><br><sub>Andres Acosta</sub>](https://github.com/EAndresAcosta)
